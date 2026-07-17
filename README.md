@@ -60,6 +60,10 @@ streamlit run app.py
 
 Add screenshots of the Streamlit application here.
 
+## Live Demo
+https://customer-churn-predicition-project-zerati5cgafibm5h2iixyc.streamlit.app/
+
+
 ## Author
 
 Omar El-Zoghby
